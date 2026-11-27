@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-openclaw"
+version = "0.1.0"
+category = "tools"
+description = "OpenClaw autonomous agent integration for SigmaOS"
